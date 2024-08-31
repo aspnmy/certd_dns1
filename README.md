@@ -15,8 +15,8 @@
 - 4、颁发成功后，点击下载，即可交付给客户。
 - 5、如果已经配置了邮件服务器的情况下，可以填写客户的邮箱地址，已发送邮件的形式进行发送。
 - 6、版本说明：
-- certd_dns1_v1.0.0_free 版: https://github.com/aspnmy/certd_dns1.git
-- certd_dns1_v1.0.0_pro 版: https://git.t2be.cn/podAdmin/certd_dns1.git
+- certd_dns1_free 版: https://github.com/aspnmy/certd_dns1_free.git
+- certd_dns1_pro 版: https://git.t2be.cn/podAdmin/certd_dns1_pro.git
 - 7、支持的授权商：
 - certd_dns1_free 支持 https://github.com/certd/certd 项目中自带的3个服务商的dns1模式。
 - certd_dns1_pro 支持 14家服务商。
